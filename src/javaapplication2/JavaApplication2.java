@@ -16,6 +16,7 @@ public class JavaApplication2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
        String name;
         int age;
         double annualPay;
@@ -27,6 +28,9 @@ public class JavaApplication2 {
         
         System.out.println("My name is " + name + "," + " I am " + age + " years old" );
         System.out.println("I hope to earn $"+ annualPay + " per year. ");
+
+     
+
     }
     
 }
